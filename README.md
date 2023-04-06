@@ -2,7 +2,7 @@
 
 
 ## Description
-It is intended to create an e-commerce website for a manager at an internet retail company.
+- As a developer, you can publish articles, blog posts, and comment on other developers' posts as well.
 
 - 
 
@@ -24,10 +24,10 @@ It is intended to create an e-commerce website for a manager at an internet reta
 - Connect to the database by typing mysql -u root -p, into the terminal and enter your password from the .env file.
 - Source the schema.sql.
 - Run nmp run seed to seed the file.
-- Start the application by running node index or nmp start.
+- Start the application by running nmp start.
 
 ## Usage
-- You will be allowed successfully to view, add, update, and delete data in the database.
+- 
 
 ## License
 None.
