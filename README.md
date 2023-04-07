@@ -43,5 +43,5 @@ If you have any questions about the repo, open an issue or contact me directly a
 
 ## Mock-Up
 
-- 
+- ![screen shot](./images/TechBlogger.jpeg)
 
