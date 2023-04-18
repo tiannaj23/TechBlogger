@@ -5,6 +5,7 @@
 - As a developer, you can publish articles, blog posts, and comment on other developers' posts as well.
 
 - https://github.com/tiannaj23/TechBlogger
+- https://glacial-meadow-18933.herokuapp.com/
 
 
 ## Table of Contents
@@ -43,5 +44,6 @@ If you have any questions about the repo, open an issue or contact me directly a
 
 ## Mock-Up
 
-- ![screen shot](./images/TechBlogger.jpeg)
+![TheTechBlogger](https://user-images.githubusercontent.com/118307685/232653067-f261271a-b480-4860-b0f3-566b4bf53291.jpeg)
+
 
